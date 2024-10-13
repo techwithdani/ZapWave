@@ -60,7 +60,7 @@ const RegistrationForm = () => {
                 <div className="relative flex items-center">
                   <input
                     name="email"
-                    type="text"
+                    type="email"
                     required=""
                     className="w-full text-gray-800 text-sm border-b border-gray-300 focus:border-blue-600 px-2 py-3 outline-none"
                     placeholder="Enter email"
